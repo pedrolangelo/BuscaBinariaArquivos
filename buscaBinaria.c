@@ -61,5 +61,6 @@ int main(int argc, char**argv) {
             }
     }
     printf("Total Lido: %d\n", c);
+    
     fclose(f);
 }
