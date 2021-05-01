@@ -3,7 +3,7 @@ Programa de busca binaria em um arquivo de CEPs
 
 ## Como usar:
 
-* Depois de compilar o codigo, colocar o CEP na hora que foi executar
+* Depois de compilar o codigo, executar no formato ./buscaBinaria 'arquivo'
 
 * Caso o número seja inválido, aparecerá a mensagem "CEP não encontrado"
 
